@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0E1116</color>
+    <color name="text">#F4F6F8</color>
+    <color name="muted">#9AA3B2</color>
+    <color name="key">#232A34</color>
+    <color name="key_pressed">#FF8A3D</color>
+    <color name="key_stroke">#3A4452</color>
+    <color name="status">#1A1F27</color>
+    <color name="accent">#FF8A3D</color>
+</resources>
